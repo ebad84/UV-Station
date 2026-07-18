@@ -6,7 +6,7 @@ A compact UV curing station designed for PCB and electronics work.
 
 
 
-!\[UV Station 3D Preview](3D\_PCB1\_1.png)
+!\[UV Station 3D Preview](https://raw.githubusercontent.com/ebad84/UV-Station/master/3D\_PCB1\_1.png)
 
 
 
@@ -104,11 +104,11 @@ This board can be used for:
 
 
 
-!\[3D PCB View 1](3D\_PCB1\_1.png)
+!\[3D PCB View 1](https://raw.githubusercontent.com/ebad84/UV-Station/master/3D\_PCB1\_1.png)
 
 
 
-!\[3D PCB View 2](3D\_PCB1\_2.png)
+!\[3D PCB View 2](https://raw.githubusercontent.com/ebad84/UV-Station/master/3D\_PCB1\_2.png)
 
 
 
@@ -116,7 +116,7 @@ This board can be used for:
 
 
 
-!\[PCB Layout](PCB\_PCB1.png)
+!\[PCB Layout](https://raw.githubusercontent.com/ebad84/UV-Station/master/PCB\_PCB1.png)
 
 
 
@@ -124,7 +124,7 @@ This board can be used for:
 
 
 
-!\[Schematic](SCH\_UV\_Station\_1-P1.png)
+!\[Schematic](https://raw.githubusercontent.com/ebad84/UV-Station/master/SCH\_UV\_Station\_1-P1.png)
 
 
 
@@ -132,23 +132,23 @@ This board can be used for:
 
 
 
-```
+| File | Description |
 
-3D\_PCB1\_1.png
+|---|---|
 
-3D\_PCB1\_2.png
+| `3D\_PCB1\_1.png` | 3D PCB render - view 1 |
 
-PCB\_PCB1.png
+| `3D\_PCB1\_2.png` | 3D PCB render - view 2 |
 
-SCH\_UV\_Station\_1-P1.png
+| `PCB\_PCB1.png` | PCB layout |
 
-ProPrj\_UV\_Station\_2026-07-18.epro2
+| `SCH\_UV\_Station\_1-P1.png` | Schematic diagram |
 
-```
+| `ProPrj\_UV\_Station\_2026-07-18.epro2` | EasyEDA Pro project file |
 
 
 
-The included project file can be opened and edited using EasyEDA Pro.
+The included project file can be opened and edited using \[EasyEDA Pro](https://pro.easyeda.com).
 
 
 
