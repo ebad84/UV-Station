@@ -96,13 +96,11 @@ This board can be used for:
 
 
 
-
-
-\# Gallery
+\## Gallery
 
 
 
-\## 3D PCB Preview
+\### 3D PCB Preview
 
 
 
@@ -114,7 +112,7 @@ This board can be used for:
 
 
 
-\## PCB Layout
+\### PCB Layout
 
 
 
@@ -122,7 +120,7 @@ This board can be used for:
 
 
 
-\## Schematic
+\### Schematic
 
 
 
@@ -130,15 +128,11 @@ This board can be used for:
 
 
 
-
-
-\# Project Files
+\## Project Files
 
 
 
 ```
-
-
 
 3D\_PCB1\_1.png
 
@@ -150,8 +144,6 @@ SCH\_UV\_Station\_1-P1.png
 
 ProPrj\_UV\_Station\_2026-07-18.epro2
 
-
-
 ```
 
 
@@ -160,29 +152,23 @@ The included project file can be opened and edited using EasyEDA Pro.
 
 
 
-
-
-\# Design Software
-
-
-
-This project was designed and created using:
+\## Design Software
 
 
 
-\- EasyEDA PCB Designer
-
-\- EasyEDA Pro
+This project was designed using:
 
 
 
-
-
-\# License
+\- \[EasyEDA Pro](https://pro.easyeda.com)
 
 
 
-\## Personal Use License v1.0
+\## License
+
+
+
+\### Personal Use License v1.0
 
 
 
@@ -202,7 +188,7 @@ Permission is granted to use, view, modify, and build this project for:
 
 
 
-The following uses are NOT permitted without prior written permission:
+The following uses are \*\*NOT\*\* permitted without prior written permission:
 
 
 
