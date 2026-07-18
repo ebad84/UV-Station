@@ -85,7 +85,7 @@ This project was designed using:
 
 ### Personal Use License v1.0
 
-Copyright (c) 2026 Mohammad
+Copyright (c) 2026 Mohammad Reza Ebadollah
 
 Permission is granted to use, view, modify, and build this project for:
 
